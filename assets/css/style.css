@@ -252,15 +252,15 @@ li {
 }
 
 .about_slider .slide_1 {
-  background-image: url(../images/slider-images/slider-bg-1.png);
+  background-image: url(../images/slider-images/slider-bg-1.jpg);
 }
 
 .about_slider .slide_2 {
-  background-image: url(../images/slider-images/slider-bg-2.png);
+  background-image: url(../images/slider-images/slider-bg-2.jpg);
 }
 
 .about_slider .slide_3 {
-  background-image: url(../images/slider-images/slider-bg-3.png);
+  background-image: url(../images/slider-images/slider-bg-3.jpg);
 }
 
 .about_slider.slick-active .slide {
