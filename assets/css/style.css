@@ -1854,10 +1854,13 @@ li {
   text-transform: capitalize;
 }
 
-.footer_bottom .column_1 .site_copyright span {
+.footer_bottom .column_1 .site_copyright a {
   color: #ffffff;
 }
 
+.footer_bottom .column_1 .site_copyright a:hover{
+    color: #b40039;
+  }
 /*********** Footer Bottom Column 2 **********/
 
 .footer_bottom .column_2 {
